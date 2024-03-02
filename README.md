@@ -1,6 +1,9 @@
 # Muzio - Your Discord Music Bot
 
-![Muzio Bot](https://i.ibb.co/zmMnfQn/Muzio-Main.png)
+<p align="center">
+  <img src="https://i.ibb.co/zmMnfQn/Muzio-Main.png" width="400" alt="Muzio Bot">
+</p>
+
 
 Muzio is a sleek and powerful Discord music bot designed to bring music to your server with ease. With a range of features and a user-friendly interface, Muzio is your go-to bot for all your musical needs on Discord.
 
