@@ -19,7 +19,7 @@ Muzio is a sleek and powerful Discord music bot designed to bring music to your 
 
 # YouTube Tutorial
 
-[![Thumbnail](https://i.ibb.co/SysTypY/Thumnial.jpg)](https://www.youtube.com/watch?v=SOON)
+[![Thumbnail](https://i.ibb.co/SysTypY/Thumnial.jpg)](https://www.youtube.com/watch?v=6Q7y1sw5sts)
 
 Click on the image above to watch the tutorial on YouTube.
 
