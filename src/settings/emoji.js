@@ -45,7 +45,7 @@ module.exports = {
         home: "<:muzio_home:1124936328925171712>",
         bug: "<:muzio_bug:1124936322499498068>",
         voter: "<:muzio_voter:1124936315729870848>",
-        avon: "<:muzio_muzio:1124936311573323837>",
+        muzio: "<:muzio_muzio:1124936311573323837>",
         supporter: "<:muzio_supporter:1124936307219628112>",
         music: "<:icons_headphone:1123546129129275514>",
         filters: "<:icons_audioenable:1123545966335762462>",
