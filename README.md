@@ -155,7 +155,7 @@ module.exports = {
 };
 ```
 
-Downlod emojis form here [Emojis.zip](https://cdn.discordapp.com/attachments/1213118298892279838/1213118329565224970/Muzio_Emojis.zip?ex=65f44f7c&is=65e1da7c&hm=7a3285c722788e41a5f512a05ef49886725d9e78f34a27391439ff97db802631&)
+Downlod emojis form here [Emojis.zip](https://github.com/ScienceGear/muzio/raw/main/Muzio_Emojis.zip)
 
 ## Screenshots
 
